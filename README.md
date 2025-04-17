@@ -45,8 +45,8 @@ I'm a young developer who loves turning ideas into real-world projects. I enjoy 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ntmdev&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="NTMDev Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ntmdev&layout=compact&theme=tokyonight&hide_border=true" alt="NTMDev Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nottrymito&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" alt="NTMDev Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nottrymito&layout=compact&theme=tokyonight&hide_border=true" alt="NTMDev Languages"/>
 </div>
 
 ---
