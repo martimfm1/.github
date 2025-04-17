@@ -51,12 +51,6 @@ I'm a young developer who loves turning ideas into real-world projects. I enjoy 
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/nottrymito/nottrymito/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 Links
 
 - 🌍 Website: [ntmdev.me](https://ntmdev.me)  
