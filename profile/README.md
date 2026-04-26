@@ -31,8 +31,8 @@ I'm a web developer focused on building clean and efficient solutions. Currently
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martim&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martim&layout=compact&theme=github_dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=martimfm1&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martimfm1&layout=compact&theme=github_dark"/>
 </p>
 
 ---
