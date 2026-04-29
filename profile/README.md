@@ -23,7 +23,7 @@ I'm a web developer focused on building clean and efficient solutions. Currently
 ## 🎯 Currently
 
 - 🌐 Building projects in **Web Development**
-- 📚 Exploring **low-level programming** (C / Rust / C++)
+- 📚 Exploring **low-level programming** (C# / Rust / C++)
 - 🚀 Moving towards a career in **Software Development**
 
 ---
